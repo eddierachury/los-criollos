@@ -1,0 +1,14 @@
+{
+	"facet": {
+		"type": "string",
+		"default": ""
+	},
+	"hideCounts": {
+		"type": "boolean",
+		"default": false
+	},
+	"hideLabels": {
+		"type": "boolean",
+		"default": false
+	}
+}

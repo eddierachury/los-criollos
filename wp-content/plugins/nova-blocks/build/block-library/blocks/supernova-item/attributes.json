@@ -1,0 +1,62 @@
+{
+	"preview": {
+		"type": "boolean",
+		"default": true
+	},
+	"level": {
+		"type": "number",
+		"default": 2
+	},
+	"metaAboveTitle": {
+		"type": "string",
+		"default": "Meta Data"
+	},
+	"metaBelowTitle": {
+		"type": "string",
+		"default": ""
+	},
+	"title": {
+		"type": "string",
+		"default": "This is a catchy title"
+	},
+	"subtitle": {
+		"type": "string",
+		"default": ""
+	},
+	"description": {
+		"type": "string",
+		"default": "A brilliant subtitle to explain its catchiness"
+	},
+	"buttonText": {
+		"type": "string",
+		"default": ""
+	},
+	"buttonUrl": {
+		"type": "string",
+		"default": ""
+	},
+	"buttonOpensInNewTab": {
+		"type": "boolean",
+		"default": false
+	},
+	"defaultsGenerated": {
+		"type": "boolean",
+		"default": false
+	},
+	"multiplePlaceholderImages": {
+		"type": "boolean",
+		"default": false
+	},
+	"lock": {
+		"type": "object",
+		"default": {}
+	},
+	"contentType": {
+		"type": "string",
+		"default": "fields"
+	},
+	"anchor": {
+		"type": "string",
+		"default": ""
+	}
+}

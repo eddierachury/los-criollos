@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "novablocks/facetwp-selections",
+	"parent": [ "novablocks/facetwp-filter" ],
+	"title": "Selections",
+	"category": "nova-blocks",
+	"keywords": [
+		"facetwp",
+		"filter"
+	],
+	"textdomain": "nova-blocks",
+	"attributes": {
+
+	},
+	"supports": {
+	}
+}

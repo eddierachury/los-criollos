@@ -1,0 +1,14 @@
+{
+	"align": {
+		"type": "string",
+		"default": "none"
+	},
+	"sectionType": {
+		"type": "string",
+		"default": "visible"
+	},
+	"orientation": {
+		"type": "string",
+		"default": "vertical"
+	}
+}

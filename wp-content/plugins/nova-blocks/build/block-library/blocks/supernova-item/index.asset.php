@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('novablocks-block-editor', 'novablocks-media-composition', 'novablocks-scrolling-effect', 'novablocks-shape-modeling', 'novablocks-utils', 'wp-block-editor', 'wp-blocks', 'wp-components', 'wp-data', 'wp-element', 'wp-i18n', 'wp-polyfill'), 'version' => 'c0531946a609e81c66ce635d5c1ad03f');
